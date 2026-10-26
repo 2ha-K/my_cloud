@@ -1,0 +1,12 @@
+node_modules
+demo-server/node_modules
+demo-server/test
+demo-server/cache
+demo-server/tools
+.tmp
+.npm-cache
+.tool-home
+.expo
+dist
+package-lock.json
+demo-server/package-lock.json

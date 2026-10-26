@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+.npm-cache/
+.tool-home/
+.tmp/
+dist/
+coverage/
+.env
+demo-server/test/*
+!demo-server/test/.gitkeep
+demo-server/cache/*
+!demo-server/cache/.gitkeep
+demo-server/tools/*
+!demo-server/tools/.gitkeep
+!demo-server/tools/README.md
